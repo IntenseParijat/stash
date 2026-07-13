@@ -1,0 +1,2 @@
+# stash
+Storage for anything
